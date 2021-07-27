@@ -1,0 +1,27 @@
+header {
+    color: #f5eded;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 2vh;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
+.nav-ul {
+    /* background-color: white; */
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 2% 0 0 0;
+    margin: 0;
+    list-style-type: none;
+}
+.list a{
+    font-size: 2.5vh;
+    text-decoration: none;
+    color: #f5eded;
+    letter-spacing: 0.05rem;
+}

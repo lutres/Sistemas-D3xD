@@ -1,4 +1,5 @@
 import './styles.css';
+import './css/productos.css';
 
 const btnSistemas = document.querySelectorAll('.button-text');
 const flecha      = document.querySelectorAll('.bi-chevron-double-right');
